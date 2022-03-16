@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{5E869C1A-FA70-5F40-85F7-D939B9F8CE04}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/PlayerController.cs">
+    <Files>
+      <File FileName="Assets/scripts/PlayerController.cs" Line="12" Column="23" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="2d plat former" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e513366b-105e-43d6-82b2-8db7bebe6826" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
